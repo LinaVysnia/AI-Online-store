@@ -9,6 +9,9 @@
 ## Description
 This is a multiple-page React app which mimics an online plant shop. It incorporates routing, session storage, and Bootstrap elements. It uses responsive design, give it a try!
 
+Two months into learning full stack web development this was a great challenge! It's my first attempt at creating multiple pages for one app and adding shared content between them. For the sake of good UX it's important to store some sort of information about the user, so this was a great practice allowing pages to use content data and having functionality to modify that it.
+
+### Inspiration
 I've been coming across cautionary tales of non-existent plants being listed for sale on the internet. Here is an [example](https://www.gardenenchantment.com/products/novel-plants-dazzling-animals-eye-seeds-128293-2024-new-arrivals) if it hasn't been taken down yet.
 
 > [!WARNING]
