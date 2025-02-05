@@ -1,4 +1,4 @@
-# This is an "Online Store" practical task 20 for full stack web development BootCamp
+# This is a pretend "Online Plant Store"
 
 ## Table Of Contents
 - [Description](#description)
